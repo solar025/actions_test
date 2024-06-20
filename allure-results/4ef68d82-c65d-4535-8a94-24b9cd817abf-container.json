@@ -1,0 +1,1 @@
+{"uuid":"4ef68d82-c65d-4535-8a94-24b9cd817abf","name":"TedPlayer()","children":["87aeab56-978f-458a-b7c8-f2807574fdfb"],"befores":[{"name":"initDoors","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1718888818098,"stop":1718888818098}],"afters":[],"start":1718888818096,"stop":1718888818100}

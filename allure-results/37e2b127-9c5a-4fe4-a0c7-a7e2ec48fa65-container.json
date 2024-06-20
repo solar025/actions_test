@@ -1,0 +1,1 @@
+{"uuid":"37e2b127-9c5a-4fe4-a0c7-a7e2ec48fa65","name":"StrategyTest","children":["a32a2b9f-36b9-439d-bab5-a638111e98b8","1d9aebae-9295-42e5-a743-bf345bc7e411"],"befores":[{"name":"init","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1718888818114,"stop":1718888818115}],"afters":[],"start":1718888818114,"stop":1718888818134}

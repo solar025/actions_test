@@ -1,0 +1,1 @@
+{"uuid":"bbff484c-276e-4d54-8dd9-a70a03145b6c","name":"LoseStrategyTest()","children":["a32a2b9f-36b9-439d-bab5-a638111e98b8"],"befores":[{"name":"initDoors","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1718888818120,"stop":1718888818120}],"afters":[],"start":1718888818115,"stop":1718888818124}

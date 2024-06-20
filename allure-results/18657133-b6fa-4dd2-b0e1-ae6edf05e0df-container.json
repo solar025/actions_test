@@ -1,0 +1,1 @@
+{"uuid":"18657133-b6fa-4dd2-b0e1-ae6edf05e0df","name":"DoorsRound()","children":["3d72bd52-e935-4b77-bd40-e4998e7b0b8d"],"befores":[{"name":"initDoors","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1718888818048,"stop":1718888818048}],"afters":[],"start":1718888818046,"stop":1718888818062}

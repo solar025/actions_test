@@ -1,0 +1,1 @@
+{"uuid":"69e5c845-dd69-4d07-942b-974de05cee43","name":"FredPlayer()","children":["1d2aa3d2-d171-49e7-a425-b765c3aeb1a2"],"befores":[{"name":"initDoors","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1718888818105,"stop":1718888818105}],"afters":[],"start":1718888818103,"stop":1718888818108}

@@ -1,0 +1,1 @@
+{"uuid":"5d5ff19a-2181-4b37-a538-802bfcee78b3","name":"WinStrategyTest()","children":["1d9aebae-9295-42e5-a743-bf345bc7e411"],"befores":[{"name":"initDoors","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1718888818129,"stop":1718888818130}],"afters":[],"start":1718888818127,"stop":1718888818132}
